@@ -1,0 +1,410 @@
+.spanon{
+    color: #ff4400;
+}
+.top:hover {
+    color: #ff4400;
+}
+ul li {
+  list-style-type: none;   
+}
+ul li a{
+    text-decoration: none;
+}
+
+.logo{
+    float: left;
+    width: 25%;
+   
+}
+.top{
+    margin-left: 70px;
+}
+.nav{
+    float: left;
+    width: 75%;
+
+}
+.navbar .navb a {
+    float: left;
+    margin-left: 20px;
+    margin-left: 50px;
+   color: #717275;
+   font-family: 'Inter', sans-serif;
+   font-size: 16px;
+   margin-top: 10px;
+}
+.navb a:hover{
+    color: #ff4400;
+    text-decoration: underline;
+}
+.secand{
+    position: relative;
+    height: 680px;
+    margin-top: 50px;
+    background-image: url("./images/team-meeting-renewable-energy-project.jpeg");
+    background-size: cover;
+    z-index: -1.;
+}
+.para{
+    position: absolute;
+    margin-top: 250px;
+   
+   
+}
+.header{
+    color: white;
+    font-weight:bold ;
+    font-size: 50px;
+    margin-left: 240px;
+    font-family: 'Inter', sans-serif;
+}
+.gom{
+    color: #fff;
+    margin-left: 240px;
+    margin-top: -30px;
+    width: 510px;
+    font-size: 16px;
+    font-family:'Inter', sans-serif ;
+}
+button{
+    margin-left: 240px;
+    background-color: #000000;
+    color: #fff;
+    border-radius: 30px;
+    font-family:'Inter', sans-serif ;
+    font-size: 20px;
+    padding: 20px;
+}
+button:hover{
+    background-color:#FF4400;
+}
+.head{
+    color: #000000;
+    margin-left: 350px;
+    font-size: 42px;
+    font-family: 'Inter', sans-serif;
+    
+}
+.span{
+    color: #FF4400;
+}
+.paragh{
+    color: #000000;
+    padding: 10px;
+}
+.link{
+float: left;
+width: 20%;
+margin-top: 65px;
+}
+.imges{
+float: left;
+width: 40%;
+}
+.contect{
+float: left;
+width: 40%;
+
+}
+h2{
+    margin-left: 100px;
+    font-size: 28px;
+    color: #000000;
+    font-family:  'Inter', sans-serif;;
+}
+.paragh{
+    margin-left: 100px;
+    color:#717275;
+    font-size: 20px;
+    font-weight: 300;
+    font-family:'Inter', sans-serif;
+}
+a{
+    margin-left: 100px;
+    text-decoration: none;
+    color:#717275;
+    font-size: 12px;
+    font-weight: 400;
+}
+a:hover{
+    color: #FF4400;
+   
+}
+.linker i{
+    color: #FF4400;
+    display: none;
+    
+}
+
+.linker:hover + .fa-solid fa-arrow-right{
+display: inline;
+}
+.list{
+    padding-bottom: 10px;
+    color: #717275;
+    font-weight: bolder;
+    font-size: 40px;
+   
+    
+}
+.list:hover{
+    color: #FF4400;
+}
+.list a{
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    margin-left: 40px;
+   
+}
+.nana,.list,.active:active{
+    color: #FF4400;
+}
+
+.two{
+    padding-top: 6rem; 
+    padding-bottom: 4rem
+
+}
+.sor{
+    float: left;
+    width: 50%;
+    margin-top: 150px;
+
+}
+.words{
+    float: left;
+    width: 50%;
+    height: 450px;
+    margin-top: 150px;
+
+   
+}
+.words{
+    background-color: #f0f8ff;;
+
+}
+.best{
+    margin-top: 170px;
+    margin-left: 100px;
+    font-size: 42px;
+    font-weight: 900;
+    font-family:  'Inter', sans-serif;
+}
+.paraon{
+    margin-left: 100px;
+    font-size: 25px;
+    color: #d0d1d1;
+    font-family:  'Inter', sans-serif;
+    font-weight: 100;
+
+}
+.three{
+    padding-bottom: 10px;
+}
+.headto{
+    text-align: center;
+
+   
+}
+.headth{
+    margin-top: 100px;
+    font-size: 42px;
+    font-weight: 900;
+    color: #000000;
+    font-family:  'Inter', sans-serif;
+}
+.onesi{
+    float: left;
+    width: 30%;
+}
+.twosi{
+    float: left;
+    width: 30%;
+}
+.threesi{
+    float: left;
+    width: 30%;
+}
+.onesi a img{
+    margin-left: -50px;
+}
+
+.twosi a img{
+    margin-left: -20px;
+}
+.threesi a img{
+    margin-left: 10px;
+}
+.lastpara1  a{
+    margin-left:70px ;
+    font-weight: bold;
+    font-size: 25px;
+    color: #000000;
+    font-family:  'Inter', sans-serif;
+}
+.lastpara2 a {
+    margin-left:110px ;
+    font-weight: bold;
+    font-size: 25px;
+    color: #000000;
+    font-family:  'Inter', sans-serif;
+}
+.lastpara3 a{
+    margin-left:135px ;
+    font-weight: bold;
+    font-size: 25px;
+    color: #000000;
+    font-family:  'Inter', sans-serif;
+}
+
+.onesi .span1{
+    margin-left: 370px;
+    margin-top: -35px;
+}
+.onesi .para1{
+    margin-left: 70px;
+}
+.twosi .span2{
+    margin-left: 380px;
+    margin-top: -35px;
+}
+.twosi .para2{
+    margin-left: 110px; 
+}
+.threesi .span3{
+    margin-left: 400px;
+    margin-top: -35px;
+}
+.threesi .para3{
+    margin-left: 135px; 
+}
+
+.fiv  {
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 80px;
+    margin-left: -80px;
+    font-family:  'Inter', sans-serif;
+    font-size: 20px;
+    color: #d0d1d1;
+    font-weight: 700;
+}
+
+
+
+.footer1{
+    float: left;
+    width: 25%;
+    height:400px;
+    background-color: #000000;
+    
+}
+.head1{
+    margin-left: 100px;
+    color: white;
+    margin-top: 100px;
+    font-family:  'Inter', sans-serif;
+ 
+}
+.parag1{
+    margin-left: 100px;
+    color: #d0d1d1;
+    font-family:  'Inter', sans-serif;
+    font-size: 15px;
+}
+.parag2{
+    margin-left: 100px;
+    color: #d0d1d1;
+    font-family:  'Inter', sans-serif;
+    font-size: 15px;
+}
+.footer2{
+    float: left;
+    width: 25%;
+    height:400px;
+    background-color: #000000;
+
+}
+.head2{
+    margin-left: 160px;
+    color: white;
+    margin-top: 100px;
+    font-family:  'Inter', sans-serif;
+
+
+}
+.liston{
+    margin-left: 30px;
+}
+.liston ul li a {
+    color: #d0d1d1;
+    font-family:  'Inter', sans-serif;
+    font-size: 15px;
+
+}
+.liston ul li a:hover{
+    color: white;
+    
+}
+.footer3{
+    float: left;
+    width: 25%;
+    height:400px;
+    background-color: #000000;
+}
+.listtw{
+    margin-left: -60px;
+    margin-top:150px;
+   
+}
+.listtw ul li a{
+    color: #d0d1d1;
+    font-size: 15px;
+    font-family:  'Inter', sans-serif;
+
+
+}
+.listtw ul li a:hover{
+color: white;
+}
+
+ .last{
+    width: 100%;
+    height: 100%;
+    margin-top: 127px;
+ }
+
+.footer4{
+    float: left;
+    width: 25%;
+    height:400px;
+    background-color: #000000;
+    
+}
+.fa-brands{
+    margin-left: -100px;
+    padding-inline: 10px;
+    color: #d0d1d1;
+}
+.fa-brands:hover{
+    color: white;
+}
+
+.head3{
+    color: white;
+    margin-top: 100px;
+    font-family:  'Inter', sans-serif;
+
+}
+.spa4{
+    color: #d0d1d1;
+}
+.spa4:hover{
+    color: #FF4400;
+}
+
+
+
+
+
+
